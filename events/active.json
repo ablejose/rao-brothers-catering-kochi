@@ -1,0 +1,37 @@
+{
+  "slug": "rao-brothers-catering-kochi",
+  "name": "Rao Brothers Catering",
+  "shortName": "Rao Brothers",
+  "descriptor": "Catering Services",
+  "address": "18, 341C, Binny Company Rd, Palluruthy Nada, Palluruthy, Kochi, Keralam 682006",
+  "area": "Palluruthy",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682006",
+  "geo": {
+    "lat": 9.9260421,
+    "lng": 76.2719664
+  },
+  "mapsLink": "https://maps.google.com/?cid=13133183432451043811",
+  "phone": "+91 94470 32524",
+  "whatsapp": "919447032524",
+  "hours": "Open 8 am – 8 pm · all days",
+  "opens": "08:00",
+  "closes": "20:00",
+  "rating": 3.4,
+  "reviewCount": 67,
+  "reviews": [
+    {
+      "name": "Sandeep Easwaramangalam",
+      "rating": 5,
+      "quote": "Pros: *you can book the food/ sadhya even when u make a late decision.. ( most other caterers will not accept last minute booking). * Food is tasty.. Cons: *They provide some curry in disposable single use containers and we will have to return it after washing.. Hope they will stop this practice."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://rao-brothers-catering-kochi.vercel.app"
+}
